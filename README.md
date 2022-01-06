@@ -27,3 +27,5 @@ override.tf.json
 # Файлы в корневом каталоге .terraformrc и terraform.rc
 .terraformrc
 terraform.rc
+
+#для коммита с IDE
